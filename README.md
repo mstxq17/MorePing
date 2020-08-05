@@ -1,5 +1,7 @@
 # MorePing
- A cdn detector with high speed! 基于Python 多线程+多协程通过调用API接口来高速批量多地Ping来检测资产CDN归属
+ A cdn detector with high speed! 基于Python 多线程+多协程通过调用API接口来高速批量多地Ping来检测资产CDN归属。
+
+可以用于端口扫描、端口服务检测前期精准探测等用途。
 
 #### Installation
 
