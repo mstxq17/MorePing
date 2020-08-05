@@ -1,0 +1,6 @@
+ltdns.ceairz.com
+ltdns.ceai9r.com
+ltdns.ceair.com
+ip:220.248.59.66
+53: domain/-,  
+ns3.ceair.com

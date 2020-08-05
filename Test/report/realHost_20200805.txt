@@ -1,0 +1,4 @@
+ns3.ceair.com
+ip:220.248.59.66
+ltdns.ceair.com
+ip:220.248.59.66
