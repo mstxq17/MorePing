@@ -1,6 +1,417 @@
-ltdns.ceairz.com
-ltdns.ceai9r.com
-ltdns.ceair.com
-ip:220.248.59.66
-53: domain/-,  
-ns3.ceair.com
+443: https/-,  2000: cisco-sccp/-,  
+cargo2.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+gcs.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+it.wh.ceair.com
+ip:58.49.33.100
+161: snmp/-,  
+piapp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+shoppingactivity.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ecapitb.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+manual.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+you.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+b2gdev.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+manageb2c.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+uptest.ceair.com
+ip:220.248.59.52
+80: http/-,  443: https/-,  8039: /-,  
+cehr.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+jsbx.ceair.com
+ip:101.230.234.106
+443: https/-,  44300: /-,  44301: /-,  44302: /-,  44310: /-,  44311: /-,  44312: /-,  
+sharecotrip.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+mobile.ceair.com
+ip:117.186.251.18
+80: http/-,  443: https/-,  5060: sip/-,  7480: /-,  8000: http-alt/-,  32480: /-,  
+boeinglsapl.ceair.com
+ip:101.230.234.96
+9443: tungsten-https/-,  
+openapi.ceair.com
+ip:140.207.105.61
+443: https/-,  
+frms-sso.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+msap.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+onecard.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+autochkin.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+pdas.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+holiday.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ecpassport.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+en.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+hotelcotrip.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+mobileprepro.ceair.com
+ip:140.207.105.21
+2000: cisco-sccp/-,  5060: sip/-,  7480: /-,  8000: http-alt/-,  8008: http/-,  32280: /-,  32380: /-,  32480: /-,  
+refund.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+sc.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+myidtravel.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+id.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+hotels.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+icusslab.ceair.com
+ip:101.230.234.92
+8080: http-proxy/-,  
+ffpservice.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+781.ceair.com
+ip:117.186.251.25
+80: http/-,  2000: cisco-sccp/-,  5060: sip/-,  8008: http/-,  
+ebapp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+foisapp43.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ealdm.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+dev-robotsms.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ecki.ceair.com
+ip:122.119.74.149
+80: http/-,  
+channel.ceair.com
+ip:140.207.105.24
+5060: sip/-,  8008: http/-,  
+fxw-weather.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ecrm.ceair.com
+ip:122.119.74.149
+80: http/-,  
+appdev.ceair.com
+ip:117.186.251.19
+2000: cisco-sccp/-,  5060: sip/-,  8008: http/-,  
+unionpay.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+payapicotrip.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+efb.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+frms-rpt.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+vpn.ceair.com
+ip:220.248.59.25
+80: http/-,  443: https/-,  
+foisapp161.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+jsbx-api.ceair.com
+ip:101.230.234.106
+443: https/-,  44300: /-,  44301: /-,  44302: /-,  44310: /-,  44311: /-,  44312: /-,  
+fn-fs.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ecabin1.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+cki.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+addservice.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+appdl.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+muservice.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+insurance.ceair.com
+ip:119.254.233.1
+80: http/-,  8088: radan-http/-,  
+muapp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+mail.aoc.ceair.com
+ip:101.230.234.89
+443: https/-,  
+uk0.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+foisapp45.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+configcotrip.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ealdm-mob.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+tr781.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+kahotel.ceair.com
+ip:185.28.220.2
+80: http/-,  443: https/-,  
+cargoctc.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ceagent.ceair.com
+ip:122.119.74.149
+80: http/-,  
+invoice.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+jgpmi.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+wcm.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+zhaopin.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+nsg.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+vacations.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+jgp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+foisapp44.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ceb.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+educontents.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ibs.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+car.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+nuk.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+jnjd.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+fxw-weather2.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+activity.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+foisapp41.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+wftp.ceair.com
+ip:101.230.234.71
+21: ftp/-,  22: ssh/-,  80: http/-,  443: https/-,  990: ftps/-,  
+erpscm.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+easternmiles.ceair.com
+ip:117.186.251.58
+5060: sip/-,  8008: http/-,  
+ecpay.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+flynet2.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+cadet.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+utravel.ceair.com
+ip:101.230.231.54
+5060: sip/-,  8008: http/-,  
+location.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+skymall.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+s.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+mapapi.ceair.com
+ip:101.230.234.114
+8080: http-proxy/-,  
+kr0.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ck0.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+cebidding.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ccdp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+fn-flight.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+observer.ceair.com
+ip:122.119.74.155
+80: http/-,  
+img.skymall.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+change.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+static-cdn.ceair.com
+ip:122.119.74.169
+80: http/-,  
+fn-flight2.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+uniorder.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+fn-crs2.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+unipay.ceair.com
+ip:122.119.74.139
+80: http/-,  443: https/-,  
+pss.ceair.com
+ip:122.119.50.26
+80: http/-,  443: https/-,  18888: apc-necmp/-,  
+99bill.ceair.com
+ip:61.152.114.231
+80: http/-,  81: hosts2-ns/-,  443: https/-,  
+security.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+page-analysis.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+skytest.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+globalhotels.ceair.com
+ip:185.28.220.2
+80: http/-,  443: https/-,  
+wt.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+lib.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ec-epidemic.ceair.com
+ip:123.206.238.231
+443: https/-,  843: /-,  
+emas-aserver.uat.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+emas-api.uat.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+emas-ceph.uat.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+vapp.ceair.com
+ip:101.230.234.103
+443: https/-,  
+emas-adash.uat.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+mail.global.ceair.com
+ip:34.214.84.63
+25: smtp/-,  80: http/-,  443: https/-,  587: submission/-,  993: imaps/-,  995: pop3s/-,  
+nfr.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+nkr.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+njp.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ebcdn.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+mdmssag.ceair.com
+ip:101.230.234.55
+443: https/-,  
+ebwx.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ebcms.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+nhk.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+alteon2.ceair.com
+ip:140.207.105.58
+443: https/-,  5060: sip/-,  8008: http/-,  
+nau.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ebpay.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+muc.ceair.com
+ip:101.230.234.79
+443: https/-,  444: snpp/-,  6101: backupexec/-,  8101: ldoms-migr/-,  
+nit.ceair.com
+ip:101.230.234.5
+554: rtsp/-,  8008: http/-,  8011: /-,  8018: /-,  8045: /-,  8060: aero/-,  8088: radan-http/-,  8180: /-,  8812: /-,  8849: /-,  8899: ospf-lite/-,  9039: /-,  9054: /-,  9055: /-,  9083: emc-pp-mgmtsvc/-,  9090: zeus-admin/-,  9443: tungsten-https/-,  9896: /-,  9999: abyss/-,  14653: /-,  20443: /-,  
+ntw.ceair.com
+ip:101.230.234.5

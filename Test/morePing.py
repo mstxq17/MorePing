@@ -1,19 +1,19 @@
 #!/usr/bin/python3
 # -*- coding:utf-8 -*-
 
-import os, sys, re
-import threading, gevent
-import queue
-import json
-from argparse import ArgumentParser, RawTextHelpFormatter
 from alive_progress import alive_bar
-
+from argparse import ArgumentParser, RawTextHelpFormatter
+import json
+import queue
+import gevent
+import threading
+import re
+import sys
+import os
+import time
 from gevent import monkey
-
 monkey.patch_all()
 import requests
-import time
-
 # global variables
 task_queue = queue.Queue()
 result_queue = queue.Queue()
@@ -24,9 +24,12 @@ def report_result():
     dirPath = './report'
     if not os.path.exists(dirPath):
         os.mkdir(dirPath)
-    cdnHost = dirPath + '/' +'cdnHost_' + time.strftime('%Y%m%d', time.localtime()) + '.txt'
-    realHost = dirPath + '/'+ 'realHost_' + time.strftime('%Y%m%d', time.localtime()) + '.txt'
-    errorHost = dirPath + '/' +'errorHost_' + time.strftime('%Y%m%d', time.localtime()) + '.txt'
+    cdnHost = dirPath + '/' + 'cdnHost_' + \
+        time.strftime('%Y%m%d', time.localtime()) + '.txt'
+    realHost = dirPath + '/' + 'realHost_' + \
+        time.strftime('%Y%m%d', time.localtime()) + '.txt'
+    errorHost = dirPath + '/' + 'errorHost_' + \
+        time.strftime('%Y%m%d', time.localtime()) + '.txt'
     all_result = []
 
     # handle output
@@ -120,11 +123,32 @@ def consumer(bar):
         lock.release()
 
 
+def get_nodes(host):
+    req_url = 'https://wepcc.com:443/'
+    req_headers = {
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+    param_body = {
+        "host": host,
+        "node": "1,2,3,4,5,6,7,8"
+    }
+    node_pattern = re.compile(r'data-id="(\w+?)"')
+    try:
+        req = requests.post(url=req_url, headers=req_headers, data=param_body)
+        if req.status_code == 200:
+            return node_pattern.findall(req.text)
+        else:
+            print(f"get_nodes Error:{status_code}")
+    except Exception as e:
+        print(e)
+    return []
+
+
 def thread_worker(host):
-    nodes = [25, 31, 4, 19, 7, 28, 21, 14, 27, 8, 1, 15]
+    nodes = get_nodes(host)
     my_set = set()
     try:
-        jobs = [gevent.spawn(gevent_worker, host, node, my_set) for node in nodes]
+        jobs = [gevent.spawn(gevent_worker, host, node, my_set)
+                for node in nodes]
         gevent.joinall(jobs, timeout=20)
         # print([job.value for job in jobs])
         if my_set:
@@ -142,23 +166,26 @@ def thread_worker(host):
 
 def gevent_worker(host, node, my_set):
     req_url = 'https://wepcc.com:443/check-ping.html'
-    req_headers = {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
+    req_headers = {
+        'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8'}
     param_body = 'node={n}&host={h}'.format(n=node, h=host)
     try:
         req = requests.post(url=req_url, data=param_body, headers=req_headers)
         if req.status_code == 200:
             try:
                 json_data = json.loads(req.content)
-                try:
-                    if json_data['data']['Error']:
-                        return False
-                except:
-                    pass
-                ip = json_data['data']['Ip']
-                my_set.add(ip)
-                return True
+                if json_data.get("code") == 0:
+                    return False
+                elif json_data.get("msg") == 'ok':
+                    ip = json_data['data']['Ip']
+                    my_set.add(ip)
+                    return True
+                else:
+                    print(f"{host}:{json_data.get('msg')}")
+                return False
             except Exception as e:
-                print('[Error Gevent Worker Parse Json]: {}'.format(e))
+                print('[Error Gevent Worker Parse {host} Json]: {error}'.format(
+                    host=host, error=e))
         else:
             print(req.status_code)
     except Exception as e:
@@ -199,7 +226,8 @@ def parse_args():
     parser.add_argument(
         '--force', action='store_true', help='Force to extract host from irregular Text'
     )
-    parser.add_argument('-v', action='version', version='%(prog)s 1.0    By xq17')
+    parser.add_argument('-v', action='version',
+                        version='%(prog)s 1.0    By xq17')
 
     if len(sys.argv) == 1:
         sys.argv.append('-h')
@@ -248,11 +276,13 @@ def main():
         print('[+] User aborted, sub scan processs exited..')
 
     except Exception as e:
-        print('[__main__.exception]: {type} {error}'.format(type=type(e), error=e))
+        print('[__main__.exception]: {type} {error}'.format(
+            type=type(e), error=e))
 
     # output the result to file
     STOP_THIS = True
     time.sleep(1)
+
 
 if __name__ == '__main__':
     main()

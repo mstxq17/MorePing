@@ -7,7 +7,7 @@
 	mkdir Test
 	cd Test
 2.创建独立运行环境-命名venv
-	virtualenv --no-site-packages --python=python3  venv0
+	virtualenv --python=python3  venv0
 3.进入虚拟环境
 	source venv0/bin/activate
 4.安装第三方包

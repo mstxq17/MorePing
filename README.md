@@ -3,6 +3,12 @@
 
 可以用于端口扫描、端口服务检测前期精准探测等用途。
 
+### UpdateLog
+
+2022/1/13： Fix issue, add to the feature plan(refactor/accererate), thanks for your star！
+
+
+
 #### Installation
 
 ```shell
